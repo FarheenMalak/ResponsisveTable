@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(32, 0, 70);
+}
+.one {
+    color: rgb(46, 0, 102);
+    display: inline;
+    font-size: 50px;
+}
+#blue {
+    color: rgb(54, 102, 190);
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+.two {
+    color: yellow;
+    display: inline;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    color: rgb(184, 0, 37);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+strong {
+    font-weight: bold;
+}
+table {
+    width: auto;
+}
+th {
+    border: none;
+    color: rgb(51, 93, 172);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 10px 10px 5px;
+}
+.light {
+    background-color: rgba(0, 0, 0, 0.247);
+}
+.red {
+    color: rgb(184, 0, 37);
+    font-family: Arial, Helvetica, sans-serif;
+}
+td {
+    border: 1px solid rgb(39, 2, 65);
+    padding: 10px 40px 10px 5px;
+    color: aliceblue;
+}
+.dark {
+    background-color: rgb(46, 0, 102);
+}
+td:hover {
+    background-color: yellow;
+    color: black;
+    box-shadow: 3px 3px rgb(158 168 13);
+}
+tr:hover {
+    background-color: rgb(133, 133, 133);
+}
